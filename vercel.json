@@ -1,6 +1,4 @@
 {
-    "buildCommand": null,
-    "installCommand": "echo 'No install needed'",
-    "devCommand": null,
-    "framework": null
+    "buildCommand": "npm run build:public",
+    "outputDirectory": "public"
 }
