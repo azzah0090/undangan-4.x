@@ -1,0 +1,6 @@
+{
+    "buildCommand": null,
+    "installCommand": "echo 'No install needed'",
+    "devCommand": null,
+    "framework": null
+}
